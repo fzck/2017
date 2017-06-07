@@ -2,6 +2,7 @@ using System;
 
 class DaysTemp
 {
+    //not encapsulated	
     public int High, Low; // Declare the instance fields
     public int Average() // Declare the instance method
     {
